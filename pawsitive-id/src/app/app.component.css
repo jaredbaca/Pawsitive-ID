@@ -2,12 +2,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 100vh;
+    height: 60vh;
     background-color: white;
   }
   
   img {
-    width: 500px;
-    height: 500px;
+    height: 100%;
   }
